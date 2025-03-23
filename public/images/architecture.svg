@@ -1,0 +1,17 @@
+
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50" y="50" width="300" height="50" rx="5" fill="#4f46e5" />
+  <text x="200" y="80" text-anchor="middle" fill="white" font-family="Arial" font-size="16">UI Components</text>
+  
+  <line x1="200" y1="100" x2="200" y2="120" stroke="#6b7280" stroke-width="2" />
+  <polygon points="195,115 200,125 205,115" fill="#6b7280" />
+  
+  <rect x="50" y="125" width="300" height="50" rx="5" fill="#8b5cf6" />
+  <text x="200" y="155" text-anchor="middle" fill="white" font-family="Arial" font-size="16">State Management</text>
+  
+  <line x1="200" y1="175" x2="200" y2="195" stroke="#6b7280" stroke-width="2" />
+  <polygon points="195,190 200,200 205,190" fill="#6b7280" />
+  
+  <rect x="50" y="200" width="300" height="50" rx="5" fill="#ec4899" />
+  <text x="200" y="230" text-anchor="middle" fill="white" font-family="Arial" font-size="16">Data Fetching</text>
+</svg>
